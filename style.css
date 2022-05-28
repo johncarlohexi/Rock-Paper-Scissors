@@ -1,0 +1,22 @@
+* {
+    margin:0.5rem;
+    padding:0;
+}
+body {
+    text-align: center;
+    font-size:2rem;;
+}
+button {
+    font-size:1.5rem;
+    padding: 0 10px;
+}
+.stats {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.stats p {
+    margin:0 3rem;
+}
+
+
