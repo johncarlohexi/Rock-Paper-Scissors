@@ -4,7 +4,8 @@
 }
 body {
     text-align: center;
-    font-size:2rem;;
+    font-size:2rem;
+    display: flex;
 }
 button {
     font-size:1.5rem;
